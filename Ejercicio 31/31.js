@@ -20,7 +20,7 @@ nombre.textContent = "FELIPE SEBASTIAN";
 const apellido = document.createElement("p");
 apellido.textContent = "MOLINA BARROS";
 
-// Armar todo
+
 texto.appendChild(nombre);
 texto.appendChild(apellido);
 fila.appendChild(foto);
