@@ -1,5 +1,5 @@
 'use strict';
-let nums = [2,6,8,1,7];
+let nums = [2,6,8,10,3,4,7,9,5];
 let aux;
 for (let i = 0; i < nums.length; i++) {
 
@@ -11,6 +11,7 @@ for (let i = 0; i < nums.length; i++) {
         }
 
     }
-alert(nums);
+
 
 }
+alert(nums);
